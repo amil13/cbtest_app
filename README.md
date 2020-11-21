@@ -1,16 +1,25 @@
 # cbtest_app
 
 Celebreak test app
-
+-------------------
 ## Getting Started
+The Test App has the following features:
 
-This project is a starting point for a Flutter application.
+1) Insert user entry to Cloud Firestore realtime database.
+2) Display the users in a scrollable list on the homescreen.
+3) Search though the entries.
 
-A few resources to get you started if this is your first Flutter project:
+The code can be improved in many ways and can be written more efficiently.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The search feature requires more development in order to be able to 
+select and display a selected entry.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank You
+---------------------
+
+list of main source code files:
+# main.dart
+# HomeScreenLisitng.dart
+# UserDetails.dart
+# PopulateDB.dart
+# SearchFunction.dart
