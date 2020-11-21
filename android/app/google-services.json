@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807634364776",
+    "firebase_url": "https://celebreak-test-app.firebaseio.com",
+    "project_id": "celebreak-test-app",
+    "storage_bucket": "celebreak-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807634364776:android:d5ccdf9aa6b5c71ac74edd",
+        "android_client_info": {
+          "package_name": "com.example.cbtest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807634364776-4hrjhoe2kp4c5553bn7a421c24t36l7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQhV_GSTgGV6qNCm6GgVRIzi89blHErg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807634364776-4hrjhoe2kp4c5553bn7a421c24t36l7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
