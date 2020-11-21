@@ -1,5 +1,3 @@
-# cbtest_app
-
 Celebreak test app
 -------------------
 ## Getting Started
@@ -15,11 +13,11 @@ The search feature requires more development in order to be able to
 select and display a selected entry.
 
 Thank You
----------------------
+
 
 list of main source code files:
-# main.dart
-# HomeScreenLisitng.dart
-# UserDetails.dart
-# PopulateDB.dart
-# SearchFunction.dart
+> main.dart
+> HomeScreenLisitng.dart
+> UserDetails.dart
+> PopulateDB.dart
+> SearchFunction.dart
