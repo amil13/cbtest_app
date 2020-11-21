@@ -15,9 +15,9 @@ select and display a selected entry.
 Thank You
 
 
-list of main source code files:
-> main.dart
-> HomeScreenLisitng.dart
-> UserDetails.dart
-> PopulateDB.dart
-> SearchFunction.dart
+*list of main source code files:*
+ *main.dart*
+ *HomeScreenLisitng.dart*
+ *UserDetails.dart*
+ *PopulateDB.dart*
+ *SearchFunction.dart*
